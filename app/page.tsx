@@ -3,6 +3,7 @@ import HeroLeft from "@/components/HeroLeft";
 import HeroRight from "@/components/HeroRight";
 import Highlights from "@/components/Highlights";
 import Projects from "@/components/Projects";
+import Resume from "@/components/Resume";
 import Skills from "@/components/Skills";
 import Image from "next/image";
 
@@ -25,6 +26,8 @@ export default function Home() {
       <div className="flex flex-row gap-4 pt-40" id="highlights">
         <Highlights />
       </div>
+
+      <Resume />
 
       <div className="" id="contact">
         <Contact />
