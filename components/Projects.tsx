@@ -7,6 +7,14 @@ import { RiLiveLine } from "react-icons/ri";
 
 const data = [
   {
+    id: 0,
+    title: "Stellar",
+    description: "A code review tool which reviews your code and find bugs, suggest improvements and return the rewritten code.",
+    imageUrl: "./stellar.png",
+    gutHub: "https://github.com/Sundaram-Katare/stellar",
+    live: "https://stellar-seven-topaz.vercel.app/",
+  },
+  {
     id: 1,
     title: "Weave",
     description:
