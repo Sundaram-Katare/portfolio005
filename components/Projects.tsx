@@ -33,6 +33,14 @@ const data = [
     live: "https://lumin-alpha.vercel.app/"
   },
   {
+    id: 6, 
+    title: "Nike Shoe Store",
+    description: "This is a Shoe store's website landing page built using pure HTML, CSS and JavaScript.",
+    imageUrl: "/nike.png",
+    gitHub: "https://github.com/Sundaram-Katare/Nike-Shoe-Store",
+    live: "https://nike-shoe-store-nu.vercel.app/"
+  },
+  {
     id: 3,
     title: "Liluxe",
     description:
