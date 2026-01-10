@@ -33,6 +33,14 @@ const data = [
     live: "https://lumin-alpha.vercel.app/"
   },
   {
+   id: 7,
+   title: "Redux Auth App",
+    description: "An authentication app built using Redux Toolkit, MERN and deployed it on Docker and setup the CI/CD pipelines for it.",
+    imageUrl: "/redux.png",
+    gitHub: "https://github.com/Sundaram-Katare/redux-auth-app",
+    live: "https://redux-auth-app.vercel.app/"
+  },
+  {
     id: 6, 
     title: "Nike Shoe Store",
     description: "This is a Shoe store's website landing page built using pure HTML, CSS and JavaScript.",
