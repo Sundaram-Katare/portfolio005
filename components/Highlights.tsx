@@ -18,14 +18,14 @@ const data = [
     description:
       "Completed a 2 months internship at PHICSIT Infotech Pvt. Ltd. as a Web Developer. Worked with both frontend and backend technologies in a collaborative team environment",
     img: "/phicsit.png",
-    link: "https://google.com",
+    link: "https://www.linkedin.com/posts/phicsit_welcome-phicsit-intern-activity-7369635907231997957-lFa_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAKzyMBwb4eXt9DlvtlgOeMl64COBehWJU",
   },
   {
     id: 2,
     title: "Data Structures and Algorithms",
     description: (<><p className="flex"> Solved <span className="bg-green-400/40 font-semibold rounded-2xl mx-2 text-black px-1">360+</span> DSA Problems on Leetcode </p></>),
     img: "/leetcode.png",
-    link: "https://leetcode.com",
+    link: "https://leetcode.com/u/SundaramKatare/",
   },
   {
     id: 3,
@@ -33,14 +33,14 @@ const data = [
     description:
       (<><p>Ranked <span className="bg-orange-400/40 font-semibold rounded-lg mx-2 text-black px-1">15</span> among <span className="bg-green-400/40 font-semibold rounded-lg mx-2 text-black px-1">10K+</span> contributors in Open Source Connect India 2025. Contributed to more 4+ Projects</p></>),
     img: "/osc.png",
-    link: "https://github.com",
+    link: "https://www.linkedin.com/posts/sundaram-katare5_opensource-achievement-collaboration-activity-7373747098367729664-k_6i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAKzyMBwb4eXt9DlvtlgOeMl64COBehWJU",
   },
   {
     id: 4,
     title: "SQL",
     description: "3 ★ on Hackerrank in SQL",
     img: "/sql.png",
-    link: "https://hackerrank.com",
+    link: "https://www.hackerrank.com/profile/sundaramkatare53",
   },
 ];
 
