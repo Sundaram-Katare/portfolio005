@@ -63,7 +63,7 @@ export default function Navbar() {
                     initial={{ opacity: 0, y: -10 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.3 }}
-                    className="absolute top-20 left-0 w-full bg-white shadow-lg rounded-b-2xl p-6 flex flex-col gap-6 md:hidden"
+                    className="absolute top-20 left-0 w-full bg-white shadow-lg rounded-b-2xl p-6 flex flex-col gap-6 md:hidden z-50"
                 >
                     {["Home", "About", "Projects", "Highlights", "Contact"].map((item, i) => (
                         <motion.h2
