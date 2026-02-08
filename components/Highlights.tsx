@@ -8,8 +8,6 @@ import TimelineConnector from '@mui/lab/TimelineConnector';
 import TimelineContent from '@mui/lab/TimelineContent';
 import { TimelineOppositeContent } from "@mui/lab";
 import TimelineDot from '@mui/lab/TimelineDot'; import Button from "@mui/material/Button";
-import Image from "next/image";
-import { div } from "framer-motion/client";
 
 const data = [
   {
@@ -72,7 +70,7 @@ export default function Highlights() {
                 {/* <Image src={item.img} alt={item.title} width={80} height={80} className="rounded-xl" /> */}
                 <div className="">
                   <h2 className="text-xl font-bold flex-start flex text-orange-600">{item.title}</h2>
-                  <p className="text-gray-600 mt-2">{item.description}</p>
+                  <div className="text-gray-600 mt-2">{item.description}</div>
                   <Button
                     variant="contained"
                     sx={{ mt: 2, backgroundColor: "#ff7b07ff", borderRadius: "10px" }}
