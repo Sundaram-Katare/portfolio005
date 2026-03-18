@@ -29,7 +29,7 @@ export default function Resume() {
 
           <div className="flex gap-4 mt-4">
             <a
-              href="https://drive.google.com/file/d/1HlqfwfETvT_sHHm1SHaK4tbhA3Q-Ue-j/view?usp=sharing"
+              href="https://drive.google.com/file/d/1k58JdH_Gp63tIw5u7ShKo_HvWQCXHrRg/view?usp=sharing"
               target="_blank"
               className="flex items-center gap-3 bg-orange-500 text-white px-6 py-4 rounded-xl font-semibold text-lg hover:scale-105 transition"
             >
@@ -38,7 +38,7 @@ export default function Resume() {
             </a>
 
             <a
-              href="https://drive.google.com/file/d/1HlqfwfETvT_sHHm1SHaK4tbhA3Q-Ue-j/view?usp=sharing"
+              href="https://drive.google.com/file/d/1k58JdH_Gp63tIw5u7ShKo_HvWQCXHrRg/view?usp=sharing"
               download
               className="flex items-center gap-3 border-2 border-orange-500 text-orange-600 px-6 py-4 rounded-xl font-semibold text-lg hover:scale-105 transition"
             >
