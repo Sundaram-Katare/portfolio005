@@ -7,11 +7,19 @@ import { RiLiveLine } from "react-icons/ri";
 
 const data = [
   {
+    id: 8,
+    title: "Snippify",
+    description: "Snippify is a full-stack developer tool that allows users to save, organize, and manage code snippets. It also provides AI-powered code explanations using the user’s own Gemini API key, ensuring privacy and flexibility.",
+    imageUrl: "./snip.png",
+    gitHub: "https://github.com/Sundaram-Katare/Snippify",
+    live: "https://snippify-nine.vercel.app/",
+  },
+  {
     id: 0,
     title: "Stellar",
     description: "A code review tool which reviews your code and find bugs, suggest improvements and return the rewritten code.",
     imageUrl: "./stellar.png",
-    gutHub: "https://github.com/Sundaram-Katare/stellar",
+    gitHub: "https://github.com/Sundaram-Katare/stellar",
     live: "https://stellar-seven-topaz.vercel.app/",
   },
   {
