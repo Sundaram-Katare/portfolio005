@@ -42,11 +42,11 @@ const data = [
   },
   {
    id: 7,
-   title: "Redux Auth App",
-    description: "An authentication app built using Redux Toolkit, MERN and deployed it on Docker and setup the CI/CD pipelines for it.",
-    imageUrl: "/redux.png",
-    gitHub: "https://github.com/Sundaram-Katare/redux-auth-app",
-    live: "https://redux-auth-app.vercel.app/"
+   title: "BuzzNet",
+    description: "BuzzNet Chat App is a full-stack application built for seamless instant messaging between users. It allows people to create or join chat rooms, exchange messages in real time, and stay connected with a clean, responsive UI.",
+    imageUrl: "/buzz.png",
+    gitHub: "https://github.com/Sundaram-Katare/BuzzNet",
+    live: "https://buzz-net-lime.vercel.app/"
   },
   {
     id: 6, 
