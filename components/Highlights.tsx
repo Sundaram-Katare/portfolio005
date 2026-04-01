@@ -17,7 +17,7 @@ const data = [
     title: "Full Stack Developer Intern",
     description:
       (<><p>Working as a <span className="">Full Stack Developer Intern</span> at a Canada based startup, <span className="bg-purple-400/40 text-black font-bold px-1 py-1 mt-6 rounded">Legion Automations</span>. Gained hands-on experience in developing and maintaining web applications using modern technologies. Collaborated with cross-functional teams to deliver high-quality software solutions.</p></>),
-    link: "https://www.linkedin.com/posts/sundaram-katare5_fullstackdeveloper-internship-codeglo-activity-7369635907231997957-lFa_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAKzyMBwb4eXt9DlvtlgOeMl64COBehWJU",
+    link: "https://www.linkedin.com/posts/sundaram-katare5_fullstackdeveloper-internship-development-share-7431187233707282432-PP2-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAKzyMBwb4eXt9DlvtlgOeMl64COBehWJU",
   },
   {
     id: 1,
